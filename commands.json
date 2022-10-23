@@ -1,0 +1,10 @@
+[{
+    "content": "查询",
+    "usage": "查询id",
+    "promise": "anyone",
+    "eval": "gta.gta5RockStarID()",
+    "description": "查询rockstar id",
+    "mode": "GTA5",
+    "isHide": 0,
+    "type": "command"
+}]
